@@ -82,5 +82,5 @@ st.markdown("---")
 st.markdown("Made with 💻 using Streamlit and SQLite")
 github_repo_url = "https://github.com/anandhkirupa/CSE-521-DMQL-Final-Project"
 powerBI_dashboard_url = "https://app.powerbi.com/view?r=eyJrIjoiZDAxYzI4YjUtOTk0NC00NzdmLWIwZjctZGJhNjFhOGQ0ZGI1IiwidCI6Ijk2NDY0YThhLWY4ZWQtNDBiMS05OWUyLTVmNmI1MGEyMDI1MCIsImMiOjN9 "
-st.markdown(f"[![Check out GitHub page]({github_repo_url})]({github_repo_url})")
-st.markdown(f"[![Check out PowerBI Dashboard]({powerBI_dashboard_url})]({powerBI_dashboard_url})")
+st.markdown(f"[Check out GitHub page]({github_repo_url})")
+st.markdown(f"[Check out PowerBI Dashboard]({powerBI_dashboard_url})")
