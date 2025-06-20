@@ -46,6 +46,10 @@ A full-stack SQL playground where I model, populate, and query an e-commerce eco
 
 [Here](https://cse-521-dmql-final-projectgit-jgobwidwmdae4ppsxzzbyx.streamlit.app/)
 
+# Power BI Visualization
+
+[Here](https://app.powerbi.com/view?r=eyJrIjoiZDAxYzI4YjUtOTk0NC00NzdmLWIwZjctZGJhNjFhOGQ0ZGI1IiwidCI6Ijk2NDY0YThhLWY4ZWQtNDBiMS05OWUyLTVmNmI1MGEyMDI1MCIsImMiOjN9)
+
 # Tech Stack
 
 - SQLite (in-memory DB, foreign keys enabled)
