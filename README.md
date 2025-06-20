@@ -48,7 +48,7 @@ A full-stack SQL playground where I model, populate, and query an e-commerce eco
 
 # Power BI Visualization
 
-[Here](https://app.powerbi.com/groups/me/reports/5493350f-1b1f-4f1d-bb46-64b4ad6eefb9/e8d03b064da6af857412?ctid=96464a8a-f8ed-40b1-99e2-5f6b50a20250&experience=power-bi&bookmarkGuid=c6c13434-a1b4-4d93-ad4b-8f9b46a33305)
+[Here](https://app.powerbi.com/view?r=eyJrIjoiZDAxYzI4YjUtOTk0NC00NzdmLWIwZjctZGJhNjFhOGQ0ZGI1IiwidCI6Ijk2NDY0YThhLWY4ZWQtNDBiMS05OWUyLTVmNmI1MGEyMDI1MCIsImMiOjN9)
 
 # Tech Stack
 
